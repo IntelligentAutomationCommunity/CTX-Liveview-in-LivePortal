@@ -1,5 +1,7 @@
-[![](https://img.shields.io/badge/Cortex-liveportal-blue)](https://www.cortex-ia.com/our-software) 
+[![](https://img.shields.io/badge/Cortex-LivePortal-blue)](https://www.cortex-ia.com/our-software) 
 [![](https://img.shields.io/badge/LinkedIn-Cortex-blue.svg?logo=linkedin)](https://www.linkedin.com/company/cortex-intelligent-automation-software/)
+[![](https://img.shields.io/badge/Blog-Cortex-green)]([![](https://img.shields.io/badge/LinkedIn-Cortex-blue.svg?logo=linkedin)](https://www.linkedin.com/company/cortex-intelligent-automation-software/)
+)
 
 # CTX-Liveview-in-LivePortal
 The LiveView dashboard available through LivePortal

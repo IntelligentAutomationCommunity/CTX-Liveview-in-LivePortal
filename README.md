@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/cortex-liveportal-blue)
+
 # CTX-Liveview-in-LivePortal
 The LiveView dashboard available through LivePortal
 

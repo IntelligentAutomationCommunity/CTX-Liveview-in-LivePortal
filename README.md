@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/cortex-liveportal-blue)](cortex-ia.com)
+![https://cortex-ia.com](https://img.shields.io/badge/cortex-liveportal-blue)
 
 # CTX-Liveview-in-LivePortal
 The LiveView dashboard available through LivePortal
